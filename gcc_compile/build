@@ -1,0 +1,1 @@
+g++  -g ../src/getCPUTime.cpp ../src/loadable_counter_wrapper.cpp ../src/tb_loadable_counter.cpp -o tb_loadable_counter.exe  -lm -lrt -I/home/applications/Xilinx/Vivado_HLS/2015.3/include
